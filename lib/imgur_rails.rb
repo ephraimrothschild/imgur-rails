@@ -1,0 +1,2 @@
+module ImgurRails
+end
